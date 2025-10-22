@@ -40,11 +40,13 @@ This project demonstrates how to create a modular and scalable application using
 
 ###  Home Page
 The Landing Page of the Job Portal Platform.
-![Home Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/01.png)
+<img width="1456" height="656" alt="Screenshot 2025-10-22 033515" src="https://github.com/user-attachments/assets/9aa3cdaf-471a-4440-ab2a-c27484b7c31e" />
+
 
 ###  Job Creating Form Page
 `POST` - Create a new job
-![Job Creating Form Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/02.png)
+<img width="1443" height="656" alt="Screenshot 2025-10-22 033634" src="https://github.com/user-attachments/assets/450a1fd9-18cf-4a9f-9a1f-6ace45f44fce" />
+
 
 ###  Job Listings
 `GET` - All job posts Listing here.
