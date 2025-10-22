@@ -36,7 +36,7 @@ This project demonstrates how to create a modular and scalable application using
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 ###  Home Page
 The Landing Page of the Job Portal Platform.
@@ -52,7 +52,7 @@ The Landing Page of the Job Portal Platform.
 `GET` - All job posts Listing here.
 ![Job Listings](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/03.png)
 
-### 🔍 Search Job Post by Keyword  
+###  Search Job Post by Keyword  
 `GET` - Search job listings by entering a keyword related to title, description, or company.  
 ![Search Job](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/04.png)
 
@@ -150,7 +150,7 @@ The React app will start at **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
-## 📘 API Documentation
+##  API Documentation
 
 Once the application is running, Swagger UI can be accessed at:
 
