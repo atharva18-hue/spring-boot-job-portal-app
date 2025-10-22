@@ -66,7 +66,8 @@ Access via: `/swagger-ui.html`
 
 ###  404 - Not Found Page  
 Displays a user-friendly message when an invalid URL is visited.  
-![404 Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/06.png)
+<img width="1444" height="673" alt="Screenshot 2025-10-22 040510" src="https://github.com/user-attachments/assets/9a77fbf7-b19c-42fd-b76b-cba982fc33e9" />
+
 
 ---
 
