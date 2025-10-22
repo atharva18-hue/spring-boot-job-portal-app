@@ -50,7 +50,8 @@ The Landing Page of the Job Portal Platform.
 
 ###  Job Listings
 `GET` - All job posts Listing here.
-![Job Listings](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/03.png)
+<img width="1452" height="707" alt="Screenshot 2025-10-22 040035" src="https://github.com/user-attachments/assets/177faf31-fec9-40fc-aa8e-3d7276926962" />
+
 
 ###  Search Job Post by Keyword  
 `GET` - Search job listings by entering a keyword related to title, description, or company.  
