@@ -55,7 +55,8 @@ The Landing Page of the Job Portal Platform.
 
 ###  Search Job Post by Keyword  
 `GET` - Search job listings by entering a keyword related to title, description, or company.  
-![Search Job](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/04.png)
+<img width="1440" height="700" alt="Screenshot 2025-10-22 040239" src="https://github.com/user-attachments/assets/0354b09f-3d73-4cc3-ac27-bfacafe47fde" />
+
 
 ###  Swagger UI  
 A developer-friendly interface to test and explore all RESTful APIs.  
