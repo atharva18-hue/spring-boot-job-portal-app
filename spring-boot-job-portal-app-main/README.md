@@ -1,22 +1,22 @@
-# 💼 Job Portal App - Java Spring Boot with REST APIs, ReactJS, MongoDB
+#  Job Portal App - Java Spring Boot with REST APIs, ReactJS, MongoDB
 
-## 📌 Project Overview
+##  Project Overview
 **Job Portal App** is a simple full-stack web application designed to help users browse job listings and create new job posts. It is built using **Java Spring Boot** for the backend, **ReactJS** for the frontend, and **MongoDB** for data persistence.
 
 This project demonstrates how to create a modular and scalable application using a modern technology stack, implementing essential CRUD operations with pagination and keyword-based searching.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 **Job Feed Page**: View all available job posts fetched from a local MongoDB database.
-- 🔎 **Search Functionality**: Filter job posts based on keywords like `Java`, `Python`, etc.
-- 📄 **Pagination**: Display 6 jobs per page with clickable page numbers for easy navigation.
-- 📝 **Create Job Post**: Submit new job listings through a form and store them in MongoDB.
+-  **Job Feed Page**: View all available job posts fetched from a local MongoDB database.
+-  **Search Functionality**: Filter job posts based on keywords like `Java`, `Python`, etc.
+-  **Pagination**: Display 6 jobs per page with clickable page numbers for easy navigation.
+-  **Create Job Post**: Submit new job listings through a form and store them in MongoDB.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - [Java Spring Boot](https://start.spring.io/)
@@ -38,15 +38,15 @@ This project demonstrates how to create a modular and scalable application using
 
 ## 📸 Project Screenshots
 
-### 🏠 Home Page
+###  Home Page
 The Landing Page of the Job Portal Platform.
 ![Home Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/01.png)
 
-### 📝 Job Creating Form Page
+###  Job Creating Form Page
 `POST` - Create a new job
 ![Job Creating Form Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/02.png)
 
-### 💼 Job Listings
+###  Job Listings
 `GET` - All job posts Listing here.
 ![Job Listings](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/03.png)
 
@@ -54,19 +54,19 @@ The Landing Page of the Job Portal Platform.
 `GET` - Search job listings by entering a keyword related to title, description, or company.  
 ![Search Job](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/04.png)
 
-### 🧪 Swagger UI  
+###  Swagger UI  
 A developer-friendly interface to test and explore all RESTful APIs.  
 Access via: `/swagger-ui.html`
 ![Swagger UI](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/05.png)
 
-### ❌ 404 - Not Found Page  
+###  404 - Not Found Page  
 Displays a user-friendly message when an invalid URL is visited.  
 ![404 Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/06.png)
 
 ---
 
-## 🏗️ Project Structure
-### 🔙 Backend (Spring Boot)
+##  Project Structure
+###  Backend (Spring Boot)
 
 ```
 job-portal-backend/
@@ -90,7 +90,7 @@ job-portal-backend/
 
 ```
 
-### 🌐 Frontend (ReactJS)
+###  Frontend (ReactJS)
 
 ```
 job-portal-frontend/
@@ -107,15 +107,15 @@ job-portal-frontend/
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
-### 📌 Prerequisites
+###  Prerequisites
 Ensure you have the following installed:
 - **Java 17+**
 - **Node.js & npm**
 - **MongoDB installed locally or access to MongoDB Atlas**
 
-### 🔽 Backend Setup
+###  Backend Setup
 
 ```bash
 git clone https://github.com/Mahmud-Alam/spring-boot-job-portal-app.git
@@ -126,7 +126,7 @@ cd backend
 The Spring Boot app will start at **[http://localhost:8080](http://localhost:8080)**
 
 
-#### 🧪 Configure Environment
+####  Configure Environment
 
 Edit `application.properties`:
 
@@ -136,7 +136,7 @@ spring.data.mongodb.uri=mongodb://localhost:27017/job_portal_db
 spring.data.mongodb.database=job_portal_db
 ```
 
-### 🌐 Frontend Setup
+###  Frontend Setup
 
 ```bash
 cd frontend
@@ -160,7 +160,7 @@ It includes all endpoints, models, and schemas.
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Run unit and integration tests using:
 
@@ -174,7 +174,7 @@ mvn test
 
 ---
 
-## 📜 API Endpoints
+##  API Endpoints
 
 ### GET `/job-posts`
 ### GET `/job-posts/{text}`
@@ -202,7 +202,7 @@ mvn test
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add authentication (JWT-based)
 * Enable role-based access (Job Seeker vs Employer)
@@ -212,7 +212,7 @@ mvn test
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please open an issue first to discuss what you would like to change.
 
@@ -224,17 +224,14 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 
 ---
 
-## 🏆 Author
-**Mahmud Alam**  
-- 🌍 Portfolio: [Mahmud Alam](https://mahmudalam.com/)  
-- 📧 Email: mahmudalam.official@gmail.com  
-- 🔗 **GitHub:** [GitHub](https://github.com/Mahmud-Alam)  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mahmudalamofficial/)  
-
----
-
-## 🎉 Acknowledgments
+##  Acknowledgments
 - Inspired by Job Portal platforms.
 - Thanks to the **Java Spring Boot Community** for extensive documentation and support.
 
-#### Happy coding! 🚀
+-----------
+
+## Author
+- Atharva Chavhan
+- Gmail: atharvachavhan18@gmail.com
+
+-----------
