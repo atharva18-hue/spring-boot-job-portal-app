@@ -61,7 +61,8 @@ The Landing Page of the Job Portal Platform.
 ###  Swagger UI  
 A developer-friendly interface to test and explore all RESTful APIs.  
 Access via: `/swagger-ui.html`
-![Swagger UI](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/05.png)
+<img width="1450" height="570" alt="Screenshot 2025-10-22 040356" src="https://github.com/user-attachments/assets/30fb563a-42fb-4045-a4d6-9e090d63103a" />
+
 
 ###  404 - Not Found Page  
 Displays a user-friendly message when an invalid URL is visited.  
